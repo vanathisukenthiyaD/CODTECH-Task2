@@ -1,4 +1,4 @@
-![weather](https://github.com/user-attachments/assets/f21dc7c5-c429-4bf5-8836-6f1fa826edc1)
+
 Name: VANATHISUKENTHIYA D
 Company: CODTECH IT SOLUTIONS
 ID: CT08DS9535
