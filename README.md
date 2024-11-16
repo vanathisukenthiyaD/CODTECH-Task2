@@ -74,7 +74,7 @@ Output Example
       After completing the project, the app should look like a neat card or widget where users can input a city name and view real-time weather data in an aesthetically pleasing layout.
 
 
-
+![weather](https://github.com/user-attachments/assets/f627d994-8a65-4327-93ac-689c767e4c48)
 
 
 
